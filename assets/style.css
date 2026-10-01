@@ -104,3 +104,87 @@ a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid rgb
 @media(max-width:1080px){nav{gap:17px;font-size:.9rem}.nav-cta{padding:12px 17px}}
 @media(max-width:900px){.grid3,.journey,.contact-grid{grid-template-columns:1fr}.row-head{align-items:flex-start}.contact-grid{gap:24px}.mobile-book{display:flex;position:fixed;z-index:30;left:12px;right:12px;bottom:calc(12px + env(safe-area-inset-bottom));min-height:52px;align-items:center;justify-content:center;border-radius:999px;background:var(--deep);color:#fff;font-weight:800;box-shadow:0 12px 34px rgba(35,29,24,.28)}body{padding-bottom:calc(76px + env(safe-area-inset-bottom))}.foot-links{display:grid;gap:8px}}
 @media(max-width:560px){.row-head{display:block}.row-head .text-link{display:inline-block;margin-top:4px}.form-row{grid-template-columns:1fr}.contact-form{padding:20px;border-radius:20px}.form-actions{display:grid}.form-actions .btn{width:100%}.journey{gap:10px}.journey>div{padding:18px}}
+
+
+/* Kakao / phone conversion controls */
+.marketing-inquiry{
+  display:block;
+  color:inherit;
+  cursor:pointer;
+}
+.marketing-inquiry img{
+  transition:transform .28s ease, filter .28s ease;
+}
+.marketing-inquiry:hover img{
+  transform:translateY(-2px);
+  filter:brightness(.98);
+}
+.marketing-inquiry .floating{
+  pointer-events:none;
+}
+
+.floating-contact{
+  position:fixed;
+  z-index:50;
+  right:22px;
+  bottom:22px;
+  display:grid;
+  gap:10px;
+  width:178px;
+}
+.floating-contact a{
+  min-height:52px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:8px;
+  padding:12px 16px;
+  border-radius:999px;
+  font-weight:800;
+  box-shadow:0 12px 30px rgba(35,29,24,.18);
+  transition:transform .2s ease, box-shadow .2s ease;
+}
+.floating-contact a:hover{
+  transform:translateY(-2px);
+  box-shadow:0 16px 34px rgba(35,29,24,.23);
+}
+.floating-contact__kakao{
+  background:#fee500;
+  color:#191919;
+}
+.floating-contact__phone{
+  background:var(--deep);
+  color:#fff;
+}
+.floating-contact__icon{
+  font-size:1rem;
+  line-height:1;
+}
+
+@media(max-width:900px){
+  .mobile-book{display:none!important}
+  .floating-contact{
+    left:10px;
+    right:10px;
+    bottom:calc(10px + env(safe-area-inset-bottom));
+    width:auto;
+    grid-template-columns:1fr 1fr;
+    gap:8px;
+  }
+  .floating-contact a{
+    min-height:54px;
+    border-radius:16px;
+    padding:12px 10px;
+    font-size:.95rem;
+  }
+  body{
+    padding-bottom:calc(82px + env(safe-area-inset-bottom));
+  }
+}
+
+@media(max-width:380px){
+  .floating-contact a{
+    font-size:.88rem;
+    gap:6px;
+  }
+}
