@@ -188,3 +188,57 @@ a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid rgb
     gap:6px;
   }
 }
+
+/* Main marketing visual: always show the complete baked-in artwork */
+.hero .marketing-inquiry{
+  display:block;
+  width:100%;
+  max-width:560px;
+  justify-self:end;
+  overflow:visible;
+}
+.hero .marketing-inquiry img{
+  display:block;
+  width:100%;
+  height:auto !important;
+  max-width:100%;
+  aspect-ratio:auto !important;
+  object-fit:contain !important;
+  object-position:center center !important;
+  border-radius:28px;
+  box-shadow:var(--shadow);
+}
+
+/* Stack before the ad becomes too narrow, so every word stays readable. */
+@media(max-width:1080px){
+  .hero .hero-grid{
+    grid-template-columns:1fr;
+    gap:34px;
+  }
+  .hero .marketing-inquiry{
+    order:-1;
+    justify-self:center;
+    width:min(100%,620px);
+    max-width:620px;
+  }
+  .hero .marketing-inquiry img{
+    width:100%;
+    height:auto !important;
+    aspect-ratio:auto !important;
+    object-fit:contain !important;
+  }
+}
+
+@media(max-width:560px){
+  .hero .marketing-inquiry{
+    width:100%;
+    max-width:none;
+  }
+  .hero .marketing-inquiry img{
+    width:100%;
+    height:auto !important;
+    aspect-ratio:auto !important;
+    object-fit:contain !important;
+    border-radius:18px;
+  }
+}
