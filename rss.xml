@@ -1,46 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>티티왁싱 | 신림왁싱</title>
-    <link>https://ttwaxing.pages.dev/</link>
-    <description>신림왁싱 티티왁싱의 브라질리언 왁싱, 임산부 왁싱, 슈가링 및 예약 안내</description>
-    <language>ko-KR</language>
-    <lastBuildDate>Thu, 01 Oct 2026 11:00:00 GMT</lastBuildDate>
-    <atom:link href="https://ttwaxing.pages.dev/rss.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>티티왁싱 | 신림왁싱 · 브라질리언 · 임산부 · 슈가링</title>
-      <link>https://ttwaxing.pages.dev/</link>
-      <guid isPermaLink="true">https://ttwaxing.pages.dev/</guid>
-      <description>신림에서 브라질리언 왁싱, 임산부 왁싱, 남자·여자 왁싱과 슈가링을 제공하는 티티왁싱 안내입니다.</description>
-      <pubDate>Thu, 01 Oct 2026 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>신림 브라질리언 왁싱 | 티티왁싱</title>
-      <link>https://ttwaxing.pages.dev/brazilian-waxing.html</link>
-      <guid isPermaLink="true">https://ttwaxing.pages.dev/brazilian-waxing.html</guid>
-      <description>남자·여자 모두 가능한 신림 브라질리언 왁싱 서비스 안내입니다.</description>
-      <pubDate>Thu, 01 Oct 2026 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>신림 임산부 왁싱 | 티티왁싱</title>
-      <link>https://ttwaxing.pages.dev/pregnancy-waxing.html</link>
-      <guid isPermaLink="true">https://ttwaxing.pages.dev/pregnancy-waxing.html</guid>
-      <description>임신 중 컨디션을 고려한 신림 임산부 왁싱 안내입니다.</description>
-      <pubDate>Thu, 01 Oct 2026 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>신림 슈가링 왁싱 | 티티왁싱</title>
-      <link>https://ttwaxing.pages.dev/sugaring.html</link>
-      <guid isPermaLink="true">https://ttwaxing.pages.dev/sugaring.html</guid>
-      <description>신림에서 받을 수 있는 슈가링 왁싱 서비스와 특징을 안내합니다.</description>
-      <pubDate>Thu, 01 Oct 2026 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>티티왁싱 소개 및 예약 안내 | 신림왁싱</title>
-      <link>https://ttwaxing.pages.dev/about-booking.html</link>
-      <guid isPermaLink="true">https://ttwaxing.pages.dev/about-booking.html</guid>
-      <description>티티왁싱 소개와 예약 전 확인사항을 안내합니다.</description>
-      <pubDate>Thu, 01 Oct 2026 11:00:00 GMT</pubDate>
-    </item>
-  </channel>
-</rss>
+<rss version="2.0"><channel>
+<title>티티왁싱</title>
+<link>https://ttwaxing.pages.dev/</link>
+<description>신림 티티왁싱 브라질리언·임산부 왁싱·슈가링 안내</description>
+<language>ko-KR</language>
+<lastBuildDate>Thu, 01 Oct 2026 20:50:00 +0900</lastBuildDate>
+<item><title>티티왁싱 홈</title><link>https://ttwaxing.pages.dev/</link><guid>https://ttwaxing.pages.dev/</guid><description>신림 브라질리언·임산부 왁싱과 슈가링 안내</description><pubDate>Thu, 01 Oct 2026 20:50:00 +0900</pubDate></item>
+<item><title>브라질리언 왁싱</title><link>https://ttwaxing.pages.dev/brazilian-waxing.html</link><guid>https://ttwaxing.pages.dev/brazilian-waxing.html</guid><description>여성·남성 모두 편안하게 상담하는 브라질리언 왁싱</description><pubDate>Thu, 01 Oct 2026 20:50:00 +0900</pubDate></item>
+<item><title>임산부 왁싱</title><link>https://ttwaxing.pages.dev/pregnancy-waxing.html</link><guid>https://ttwaxing.pages.dev/pregnancy-waxing.html</guid><description>주수와 컨디션, 자세 부담을 고려하는 임산부 왁싱</description><pubDate>Thu, 01 Oct 2026 20:50:00 +0900</pubDate></item>
+<item><title>슈가링</title><link>https://ttwaxing.pages.dev/sugaring.html</link><guid>https://ttwaxing.pages.dev/sugaring.html</guid><description>슈가 페이스트를 활용하는 슈가링 관리 안내</description><pubDate>Thu, 01 Oct 2026 20:50:00 +0900</pubDate></item>
+<item><title>왁싱 전후 관리</title><link>https://ttwaxing.pages.dev/aftercare.html</link><guid>https://ttwaxing.pages.dev/aftercare.html</guid><description>왁싱 전 준비와 관리 후 홈케어 안내</description><pubDate>Thu, 01 Oct 2026 20:50:00 +0900</pubDate></item>
+<item><title>자주 묻는 질문</title><link>https://ttwaxing.pages.dev/faq.html</link><guid>https://ttwaxing.pages.dev/faq.html</guid><description>브라질리언·임산부·슈가링 FAQ</description><pubDate>Thu, 01 Oct 2026 20:50:00 +0900</pubDate></item>
+</channel></rss>
