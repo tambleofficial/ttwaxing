@@ -79,3 +79,9 @@ GitHub → Cloudflare Pages용 **순수 HTML/CSS/JS 정적 5페이지 사이트*
 ```
 
 배포 후 Google Search Console에서 sitemap을 제출하고, Google Business Profile의 업체명·주소·전화번호와 사이트 정보가 일치하도록 관리하는 것을 권장합니다.
+
+## Sitemap / RSS
+
+- Sitemap: `https://ttwaxing.pages.dev/sitemap.xml`
+- RSS: `https://ttwaxing.pages.dev/rss.xml`
+- 실제 커스텀 도메인을 연결하면 두 XML 파일과 HTML의 canonical/OG URL도 해당 도메인으로 변경하세요.

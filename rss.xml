@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>티티왁싱 | 신림왁싱</title>
+    <link>https://ttwaxing.pages.dev/</link>
+    <description>신림왁싱 티티왁싱의 브라질리언 왁싱, 임산부 왁싱, 슈가링 및 예약 안내</description>
+    <language>ko-KR</language>
+    <lastBuildDate>Thu, 01 Oct 2026 11:00:00 GMT</lastBuildDate>
+    <atom:link href="https://ttwaxing.pages.dev/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>티티왁싱 | 신림왁싱 · 브라질리언 · 임산부 · 슈가링</title>
+      <link>https://ttwaxing.pages.dev/</link>
+      <guid isPermaLink="true">https://ttwaxing.pages.dev/</guid>
+      <description>신림에서 브라질리언 왁싱, 임산부 왁싱, 남자·여자 왁싱과 슈가링을 제공하는 티티왁싱 안내입니다.</description>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>신림 브라질리언 왁싱 | 티티왁싱</title>
+      <link>https://ttwaxing.pages.dev/brazilian-waxing.html</link>
+      <guid isPermaLink="true">https://ttwaxing.pages.dev/brazilian-waxing.html</guid>
+      <description>남자·여자 모두 가능한 신림 브라질리언 왁싱 서비스 안내입니다.</description>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>신림 임산부 왁싱 | 티티왁싱</title>
+      <link>https://ttwaxing.pages.dev/pregnancy-waxing.html</link>
+      <guid isPermaLink="true">https://ttwaxing.pages.dev/pregnancy-waxing.html</guid>
+      <description>임신 중 컨디션을 고려한 신림 임산부 왁싱 안내입니다.</description>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>신림 슈가링 왁싱 | 티티왁싱</title>
+      <link>https://ttwaxing.pages.dev/sugaring.html</link>
+      <guid isPermaLink="true">https://ttwaxing.pages.dev/sugaring.html</guid>
+      <description>신림에서 받을 수 있는 슈가링 왁싱 서비스와 특징을 안내합니다.</description>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>티티왁싱 소개 및 예약 안내 | 신림왁싱</title>
+      <link>https://ttwaxing.pages.dev/about-booking.html</link>
+      <guid isPermaLink="true">https://ttwaxing.pages.dev/about-booking.html</guid>
+      <description>티티왁싱 소개와 예약 전 확인사항을 안내합니다.</description>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
